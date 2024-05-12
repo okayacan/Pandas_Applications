@@ -1,0 +1,22 @@
+
+# Data Cleaning and Preprocessing Application
+
+This repository contains a Python application for cleaning and preprocessing raw data before analysis or modeling.
+
+
+## Overview
+
+Data cleaning and preprocessing are essential steps in the data analysis process. 
+Raw data often contains missing values, inconsistencies, and other irregularities that need to be addressed before meaningful analysis can be conducted.
+This application provides a set of tools and functions to perform common data cleaning and preprocessing tasks, including:
+
+- Handling missing values
+- Removing duplicates
+- Standardizing data formats
+- Encoding categorical variables
+- Scaling numerical features
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
