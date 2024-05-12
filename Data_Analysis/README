@@ -1,0 +1,25 @@
+
+# Data Analysis Application
+
+This is a simple data analysis application written in Python using the Pandas library. It provides basic functionality to load a dataset, perform summary statistics, and visualize the data distribution.
+
+## Features
+
+- Load CSV data file.
+- Display summary statistics (mean, median, min, max, etc.).
+- Visualize data distribution with histograms.
+
+
+## Usage
+
+1. Place your CSV data file in the project directory.
+2. Open the Jupyter Notebook `data_analysis.ipynb`.
+3. Follow the instructions in the notebook to load your data file and perform analysis.
+
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- Matplotlib
